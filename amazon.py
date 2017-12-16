@@ -1,3 +1,5 @@
+#Sample code https://review-of-my-life.blogspot.jp/2017/10/pager-next-selenium.html
+
 from selenium import webdriver
 from pandas import *
 import time
